@@ -11,7 +11,7 @@ import "@fontsource-variable/onest";
       </button>
     </nav>
 
-    <div id="carrito" class="absolute right-0 rounded-lg right-3 hidden shadow-lg bg-white w-[360px] p-3 md:w-[450px] ">
+    <div id="carrito" class="absolute rounded-lg right-3 hidden shadow-lg bg-white w-[360px] p-3 md:w-[450px] ">
       <p class="text-center mb-2">El carrito esta vacio</p>
       <table>
         <thead>
@@ -110,5 +110,6 @@ a {
 
 .mostrar {
   display: block;
+  transition: all 0.7s ease-in-out;
 }
 </style>
