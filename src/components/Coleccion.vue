@@ -1,3 +1,7 @@
+<script>
+// Supports weights 100-900
+import "@fontsource-variable/onest";
+</script>
 <template>
   <section>
     <h2 class="text-amber-600 font-bold text-center my-10 text-5xl">Nuestra Colección</h2>

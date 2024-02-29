@@ -9,7 +9,3 @@ import Footer from "./components/Footer.vue";
   <Coleccion />
   <Footer />
 </template>
-
-<style scoped>
-
-</style>
